@@ -1,0 +1,29 @@
+.main {
+    margin-top: 32px;
+    display: block;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.main-container {
+    max-width: 750px;
+    min-width: 600px;
+    width: 100%;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+li {
+    margin-right: 1rem;
+}
+
+/* .pagination {
+    display: flex;
+    justify-content: center;
+
+} */
+
+/* .pagination button {
+    max-width: 5rem;
+} */ 
+

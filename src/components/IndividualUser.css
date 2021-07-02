@@ -1,0 +1,11 @@
+.user-name {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 100;
+
+}
+span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

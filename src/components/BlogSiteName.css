@@ -1,0 +1,12 @@
+.blogsite-name {
+    font-family: 'Adobe Jenson', serif;
+    font-size: 1.8rem;
+    font-weight: bolder;
+    border: 1px solid #FDFFAB;
+    border-radius: 300px;
+    overflow: hidden;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    outline: none;
+    cursor: pointer;
+}

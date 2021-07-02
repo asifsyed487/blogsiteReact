@@ -1,0 +1,26 @@
+header {
+    background: url("https://www.transparenttextures.com/patterns/black-felt.png"), radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,179,16,1) 0%, rgba(255,229,120,1) 100%);
+    /* background-size: cover; */
+    background-position: center;
+    min-height: 270px;
+    color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.profile-name {
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+}
+
+.profile-email {
+    margin-top: 8px;
+    font-size: 1rem;
+}
+

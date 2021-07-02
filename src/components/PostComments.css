@@ -1,0 +1,41 @@
+.comment {
+    display: flex;
+    border: 1px solid #eaecee;
+    border-radius: 8px;
+    min-height: 130px;
+    align-items: center;
+    transition: all 0.25s ease;
+    width: 90%;
+    margin: auto;
+    margin-top: 14px;
+}
+
+.comment:hover {
+    transform: translate3d(0, -5px, 0);
+    box-shadow: 0 2rem 5rem 0 rgba(0,0,0,.1);
+}
+
+.comment-content {
+    flex-basis: 100%;
+    padding: 24px;
+}
+
+.comment-name {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.comment-email {
+    margin-top: 8px;
+}
+
+.comment-name h4 {
+    margin: 0;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.comment-text {
+    margin-top: 12px;
+    line-height: 1.2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
